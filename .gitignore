@@ -11,3 +11,7 @@
 
 # Flutter/Dart/Pub related
 /build/
+
+
+# fvm
+.fvm/flutter_sdk
